@@ -1,9 +1,3 @@
-################################
-### Admintools               ###
-### By Marc Wyler / WMr      ###
-### Date: 05.10.2020         ###
-################################
-
 ### Add a new Menu Item:
 ### 1) Create a new MenuItem  (System.Windows.Forms.MenuItem)
 ### 2) Add an action to the MenuItem ($Example.Add_Click)
